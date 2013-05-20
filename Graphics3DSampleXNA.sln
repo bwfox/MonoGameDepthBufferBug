@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphics3DSampleXNA", "Graphics3DSample_MonoGame\Graphics3DSampleXNA.csproj", "{DDB4235F-03E2-489A-BCEE-3F43CB940645}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDB4235F-03E2-489A-BCEE-3F43CB940645}.Debug|x86.ActiveCfg = Debug|x86
+		{DDB4235F-03E2-489A-BCEE-3F43CB940645}.Debug|x86.Build.0 = Debug|x86
+		{DDB4235F-03E2-489A-BCEE-3F43CB940645}.Release|x86.ActiveCfg = Release|x86
+		{DDB4235F-03E2-489A-BCEE-3F43CB940645}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
